@@ -4,11 +4,11 @@ marks, total it and generate mark sheet using grades ?
 
 # Python Program - Calculate Grade of Student
 
-print("Student Name:'Zafar' .");
-print("Roll Number:'7086' ");
+print("Student Name:'Jasmine' .");
+print("Roll Number:'0000' ");
 print("Enter marks obtained in 5 subjects: ");
 mark1 = input();
-if mark1 == 'Zafar':
+if mark1 == 'Jasmine':
     exit();
 else:
     mark1 = int(mark1);

@@ -1,4 +1,4 @@
-1. Write a program which takes 5 inputs from user for different subject’s
+1. Write a program which takes 5 inputs from user for different subjectâ€™s
 marks, total it and generate mark sheet using grades ?
 
 

@@ -15,4 +15,4 @@ def isPalindrome(string):
 		left_pos += 1
 		right_pos -= 1
 	return True
-print(isPalindrome('ada'))
+print(isPalindrome('level'))
